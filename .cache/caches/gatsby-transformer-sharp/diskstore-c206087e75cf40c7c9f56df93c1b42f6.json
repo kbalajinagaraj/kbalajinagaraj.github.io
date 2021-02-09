@@ -1,0 +1,11 @@
+{
+  "expireTime": 9007200867639285000,
+  "key": "33acc38b300af6de6f63b9b1d6a66488{\"background\":\"rgba(0,0,0,1)\",\"duotone\":false,\"grayscale\":false,\"rotate\":0,\"trim\":false,\"toFormat\":\"webp\",\"toFormatBase64\":\"\",\"cropFocus\":17,\"fit\":\"cover\",\"width\":20,\"height\":36}",
+  "val": {
+    "src": "data:image/webp;base64,UklGRh4BAABXRUJQVlA4IBIBAAAQBwCdASoUACQAPtFep04oJSOiKqgBABoJZwDIn2zToG89JG8PrzKepf0adTrWB6Bysbai3EXHHoCOAEtD50rYAAD+9hKRV9ZtMZya6zNN5HXH9Ai+tPhz9KcU+w1jkgGqf7KQY8hQ1nK6bX+hAaNvKXvxG8eq9oeOEiphulgUgSOC7d2zIQzzE7Hb5Ph+Wbzh2Ip64yS1LGBUrFPl0IOu4Qx8TI61iuoykLcEGLhN+q5gx4Mml+xLlfC0upmxczuIzInmW0hvHYhxAgsneje3qyPre83917fLz6ljtyaLkOf/00RpvFCXkVorbhyk9RF31EXbhHg/jF/Tggwc/hi2H5S4yfG0B0hPg331voGNjHAA",
+    "width": 20,
+    "height": 36,
+    "aspectRatio": 0.5555555555555556,
+    "originalName": "me.jpg"
+  }
+}

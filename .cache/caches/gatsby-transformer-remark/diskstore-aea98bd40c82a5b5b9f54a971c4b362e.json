@@ -1,0 +1,88 @@
+{
+  "expireTime": 9007200867639285000,
+  "key": "transformer-remark-markdown-ast-29336386ca976628625a6e34d2c107bb-gatsby-remark-external-linksgatsby-remark-imagesgatsby-remark-code-titlesgatsby-remark-prismjs-",
+  "val": {
+    "type": "root",
+    "children": [
+      {
+        "type": "list",
+        "ordered": false,
+        "start": null,
+        "spread": false,
+        "children": [
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Design of a Machine learning based prediction algorithm for solar Photo-voltaic parameter prediction in remote locations.",
+                    "position": {
+                      "start": { "line": 2, "column": 3, "offset": 3 },
+                      "end": { "line": 2, "column": 124, "offset": 124 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 2, "column": 3, "offset": 3 },
+                  "end": { "line": 2, "column": 124, "offset": 124 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 2, "column": 1, "offset": 1 },
+              "end": { "line": 2, "column": 124, "offset": 124 },
+              "indent": []
+            }
+          },
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Skill Set utilized: Python, ANN, Deep Learning, Mathematics, Data processing, Matlab NN, Solar PV Characteristics",
+                    "position": {
+                      "start": { "line": 3, "column": 3, "offset": 127 },
+                      "end": { "line": 3, "column": 116, "offset": 240 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 3, "column": 3, "offset": 127 },
+                  "end": { "line": 3, "column": 116, "offset": 240 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 3, "column": 1, "offset": 125 },
+              "end": { "line": 3, "column": 116, "offset": 240 },
+              "indent": []
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 2, "column": 1, "offset": 1 },
+          "end": { "line": 3, "column": 116, "offset": 240 },
+          "indent": [1]
+        }
+      }
+    ],
+    "position": {
+      "start": { "line": 1, "column": 1, "offset": 0 },
+      "end": { "line": 4, "column": 1, "offset": 241 }
+    }
+  }
+}

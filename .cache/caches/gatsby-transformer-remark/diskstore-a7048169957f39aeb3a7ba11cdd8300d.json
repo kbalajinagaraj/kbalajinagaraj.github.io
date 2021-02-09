@@ -1,0 +1,85 @@
+{
+  "expireTime": 9007200867639285000,
+  "key": "transformer-remark-markdown-html-ast-ee75a794639df0ecff96d146e575004d-gatsby-remark-external-linksgatsby-remark-imagesgatsby-remark-code-titlesgatsby-remark-prismjs-",
+  "val": {
+    "type": "root",
+    "children": [
+      {
+        "type": "element",
+        "tagName": "ul",
+        "properties": {},
+        "children": [
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Worked on a startup Part-Time : Bootstrapping the product in addition to the Internship and Thesis at Academics",
+                "position": {
+                  "start": { "line": 2, "column": 3, "offset": 3 },
+                  "end": { "line": 2, "column": 114, "offset": 114 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 2, "column": 1, "offset": 1 },
+              "end": { "line": 2, "column": 114, "offset": 114 }
+            }
+          },
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Design and development of Power Converter Control Design and Powerline Communication",
+                "position": {
+                  "start": { "line": 3, "column": 3, "offset": 117 },
+                  "end": { "line": 3, "column": 87, "offset": 201 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 3, "column": 1, "offset": 115 },
+              "end": { "line": 3, "column": 87, "offset": 201 }
+            }
+          },
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Skills: Matlab, Power Electronics, Hardware prototyping, Testing, Solar PV, Powerline communications, Soldering",
+                "position": {
+                  "start": { "line": 4, "column": 3, "offset": 204 },
+                  "end": { "line": 4, "column": 114, "offset": 315 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 4, "column": 1, "offset": 202 },
+              "end": { "line": 4, "column": 114, "offset": 315 }
+            }
+          },
+          { "type": "text", "value": "\n" }
+        ],
+        "position": {
+          "start": { "line": 2, "column": 1, "offset": 1 },
+          "end": { "line": 4, "column": 114, "offset": 315 }
+        }
+      }
+    ],
+    "position": {
+      "start": { "line": 1, "column": 1, "offset": 0 },
+      "end": { "line": 5, "column": 1, "offset": 316 }
+    }
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "expireTime": 9007200867639285000,
+  "key": "transformer-remark-markdown-ast-66576287050350dcff6f429c1b5c2b87-gatsby-remark-external-linksgatsby-remark-imagesgatsby-remark-code-titlesgatsby-remark-prismjs-",
+  "val": {
+    "type": "root",
+    "children": [
+      {
+        "type": "list",
+        "ordered": false,
+        "start": null,
+        "spread": true,
+        "children": [
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "My close-to-two year industrial work experience with VISTEON Technical center (Design and development) as Embedded Engineer has helped me understand business viewpoint and has also given me the opportunity to play with next generation Microcontrollers and control architectures for electric vehicle applications.",
+                    "position": {
+                      "start": { "line": 2, "column": 3, "offset": 3 },
+                      "end": { "line": 2, "column": 315, "offset": 315 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 2, "column": 3, "offset": 3 },
+                  "end": { "line": 2, "column": 315, "offset": 315 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 2, "column": 1, "offset": 1 },
+              "end": { "line": 3, "column": 1, "offset": 316 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Worked on Battery Management system (one of the electric power-train ECU) Control software development and HIL Verification.",
+                    "position": {
+                      "start": { "line": 4, "column": 3, "offset": 319 },
+                      "end": { "line": 4, "column": 127, "offset": 443 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 4, "column": 3, "offset": 319 },
+                  "end": { "line": 4, "column": 127, "offset": 443 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 4, "column": 1, "offset": 317 },
+              "end": { "line": 5, "column": 1, "offset": 444 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Worked on Powertrain Electronics (Electrical Engineering) delivering and developing advanced Engine Management Systems software functionality for FORD, Nissan, Land Rover Projects.",
+                    "position": {
+                      "start": { "line": 6, "column": 3, "offset": 447 },
+                      "end": { "line": 6, "column": 183, "offset": 627 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 6, "column": 3, "offset": 447 },
+                  "end": { "line": 6, "column": 183, "offset": 627 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 6, "column": 1, "offset": 445 },
+              "end": { "line": 7, "column": 1, "offset": 628 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Worked on Infotainment Systems for FORD car projects",
+                    "position": {
+                      "start": { "line": 8, "column": 3, "offset": 631 },
+                      "end": { "line": 8, "column": 55, "offset": 683 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 8, "column": 3, "offset": 631 },
+                  "end": { "line": 8, "column": 55, "offset": 683 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 8, "column": 1, "offset": 629 },
+              "end": { "line": 9, "column": 1, "offset": 684 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Software requirements, defining software delivery timing based on key milestones.",
+                    "position": {
+                      "start": { "line": 10, "column": 3, "offset": 687 },
+                      "end": { "line": 10, "column": 84, "offset": 768 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 10, "column": 3, "offset": 687 },
+                  "end": { "line": 10, "column": 84, "offset": 768 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 10, "column": 1, "offset": 685 },
+              "end": { "line": 10, "column": 84, "offset": 768 },
+              "indent": []
+            }
+          },
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Engine software function development, calibration (software application) for Engine speed damping, variant coding and Start/Stop, vehicle level functionality and system integration,",
+                    "position": {
+                      "start": { "line": 11, "column": 3, "offset": 771 },
+                      "end": { "line": 11, "column": 184, "offset": 952 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 11, "column": 3, "offset": 771 },
+                  "end": { "line": 11, "column": 184, "offset": 952 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 11, "column": 1, "offset": 769 },
+              "end": { "line": 11, "column": 184, "offset": 952 },
+              "indent": []
+            }
+          },
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Validation, version management, functional safety sign off and feature sign off for customer intent release.",
+                    "position": {
+                      "start": { "line": 12, "column": 3, "offset": 955 },
+                      "end": { "line": 12, "column": 111, "offset": 1063 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 12, "column": 3, "offset": 955 },
+                  "end": { "line": 12, "column": 111, "offset": 1063 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 12, "column": 1, "offset": 953 },
+              "end": { "line": 12, "column": 111, "offset": 1063 },
+              "indent": []
+            }
+          },
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Implementation specification and algorithm proposal for advanced functionalities of BMS.",
+                    "position": {
+                      "start": { "line": 13, "column": 3, "offset": 1066 },
+                      "end": { "line": 13, "column": 91, "offset": 1154 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 13, "column": 3, "offset": 1066 },
+                  "end": { "line": 13, "column": 91, "offset": 1154 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 13, "column": 1, "offset": 1064 },
+              "end": { "line": 13, "column": 91, "offset": 1154 },
+              "indent": []
+            }
+          },
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Skilled in Matlab & Simulink.",
+                    "position": {
+                      "start": { "line": 14, "column": 3, "offset": 1157 },
+                      "end": { "line": 14, "column": 32, "offset": 1186 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 14, "column": 3, "offset": 1157 },
+                  "end": { "line": 14, "column": 32, "offset": 1186 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 14, "column": 1, "offset": 1155 },
+              "end": { "line": 14, "column": 32, "offset": 1186 },
+              "indent": []
+            }
+          },
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Vehicle level and component level testing of BMS ECU.",
+                    "position": {
+                      "start": { "line": 15, "column": 3, "offset": 1189 },
+                      "end": { "line": 15, "column": 56, "offset": 1242 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 15, "column": 3, "offset": 1189 },
+                  "end": { "line": 15, "column": 56, "offset": 1242 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 15, "column": 1, "offset": 1187 },
+              "end": { "line": 15, "column": 56, "offset": 1242 },
+              "indent": []
+            }
+          },
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Hands-on experience on Automation scripts for HIL Verification & Validation.",
+                    "position": {
+                      "start": { "line": 16, "column": 3, "offset": 1245 },
+                      "end": { "line": 16, "column": 79, "offset": 1321 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 16, "column": 3, "offset": 1245 },
+                  "end": { "line": 16, "column": 79, "offset": 1321 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 16, "column": 1, "offset": 1243 },
+              "end": { "line": 16, "column": 79, "offset": 1321 },
+              "indent": []
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 2, "column": 1, "offset": 1 },
+          "end": { "line": 16, "column": 79, "offset": 1321 },
+          "indent": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+        }
+      }
+    ],
+    "position": {
+      "start": { "line": 1, "column": 1, "offset": 0 },
+      "end": { "line": 17, "column": 1, "offset": 1322 }
+    }
+  }
+}

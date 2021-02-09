@@ -1,0 +1,32 @@
+{
+  "expireTime": 9007200867639285000,
+  "key": "transformer-remark-markdown-html-ast-0313ff9dc4a1e77f116daac7cbeea00b-gatsby-remark-external-linksgatsby-remark-imagesgatsby-remark-code-titlesgatsby-remark-prismjs-",
+  "val": {
+    "type": "root",
+    "children": [
+      {
+        "type": "element",
+        "tagName": "p",
+        "properties": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Vehicular environments impose a set of new requirements on today's wireless communication systems. This project aims for integrating 802.11x wireless communincation stack for the AUTOSAR complex device drivers",
+            "position": {
+              "start": { "line": 2, "column": 1, "offset": 1 },
+              "end": { "line": 2, "column": 210, "offset": 210 }
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 2, "column": 1, "offset": 1 },
+          "end": { "line": 2, "column": 210, "offset": 210 }
+        }
+      }
+    ],
+    "position": {
+      "start": { "line": 1, "column": 1, "offset": 0 },
+      "end": { "line": 3, "column": 1, "offset": 211 }
+    }
+  }
+}

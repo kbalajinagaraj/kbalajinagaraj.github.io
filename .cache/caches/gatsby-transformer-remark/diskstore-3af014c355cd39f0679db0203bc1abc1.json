@@ -1,0 +1,51 @@
+{
+  "expireTime": 9007200867639285000,
+  "key": "transformer-remark-markdown-ast-a849a85bd655ad54cabc103d4d1aa01a-gatsby-remark-external-linksgatsby-remark-imagesgatsby-remark-code-titlesgatsby-remark-prismjs-",
+  "val": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "value": "A Conscientious 27-year-old passionate Human. Engineer. Leader.\nCollectively, Having studied at five different countries, Working for Volvo cars, Having worked for Ford motor projects and Co-authoring technical papers in four International Science Citation Indexed journals made me - internationally fit and futuristic in my visions.",
+            "position": {
+              "start": { "line": 2, "column": 1, "offset": 1 },
+              "end": { "line": 3, "column": 270, "offset": 334 },
+              "indent": [1]
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 2, "column": 1, "offset": 1 },
+          "end": { "line": 3, "column": 270, "offset": 334 },
+          "indent": [1]
+        }
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "value": "All-time Intentional Learner !\nInnovation, design, prototyping, management and consultation of Computer/Electrical Products and Systems.\nCurrently working on Products touching millions of users - From Charging to Mobility emphasis on next generation Computer Applications for Volvo Cars",
+            "position": {
+              "start": { "line": 5, "column": 1, "offset": 336 },
+              "end": { "line": 7, "column": 150, "offset": 622 },
+              "indent": [1, 1]
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 5, "column": 1, "offset": 336 },
+          "end": { "line": 7, "column": 150, "offset": 622 },
+          "indent": [1, 1]
+        }
+      }
+    ],
+    "position": {
+      "start": { "line": 1, "column": 1, "offset": 0 },
+      "end": { "line": 8, "column": 1, "offset": 623 }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "expireTime": 9007200867639285000,
+  "key": "transformer-remark-markdown-html-ast-a6c43c5e3839286eeafa4470891511fd-gatsby-remark-external-linksgatsby-remark-imagesgatsby-remark-code-titlesgatsby-remark-prismjs-",
+  "val": {
+    "type": "root",
+    "children": [
+      {
+        "type": "element",
+        "tagName": "ul",
+        "properties": {},
+        "children": [
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Completed Internship at NIOT (National Institute of Ocean Technology) Chennai, on Remotely operated under-water electric vehicle - on its power system failure analysis under central govt scientist-C for about 1 Month",
+                "position": {
+                  "start": { "line": 2, "column": 3, "offset": 3 },
+                  "end": { "line": 2, "column": 219, "offset": 219 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 2, "column": 1, "offset": 1 },
+              "end": { "line": 2, "column": 219, "offset": 219 }
+            }
+          },
+          { "type": "text", "value": "\n" }
+        ],
+        "position": {
+          "start": { "line": 2, "column": 1, "offset": 1 },
+          "end": { "line": 2, "column": 219, "offset": 219 }
+        }
+      }
+    ],
+    "position": {
+      "start": { "line": 1, "column": 1, "offset": 0 },
+      "end": { "line": 3, "column": 1, "offset": 220 }
+    }
+  }
+}

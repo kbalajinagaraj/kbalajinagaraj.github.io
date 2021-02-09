@@ -1,0 +1,49 @@
+{
+  "expireTime": 9007200867639285000,
+  "key": "transformer-remark-markdown-ast-b43054aed1d1a7545881bd222415f1ca-gatsby-remark-external-linksgatsby-remark-imagesgatsby-remark-code-titlesgatsby-remark-prismjs-",
+  "val": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "value": "Pioneering -> Digitalising Humans.",
+            "position": {
+              "start": { "line": 2, "column": 1, "offset": 1 },
+              "end": { "line": 2, "column": 35, "offset": 35 },
+              "indent": []
+            }
+          },
+          {
+            "type": "break",
+            "position": {
+              "start": { "line": 2, "column": 35, "offset": 35 },
+              "end": { "line": 3, "column": 1, "offset": 38 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "text",
+            "value": "Preserving -> Humanising the Digital.",
+            "position": {
+              "start": { "line": 3, "column": 1, "offset": 38 },
+              "end": { "line": 3, "column": 38, "offset": 75 },
+              "indent": []
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 2, "column": 1, "offset": 1 },
+          "end": { "line": 3, "column": 38, "offset": 75 },
+          "indent": [1]
+        }
+      }
+    ],
+    "position": {
+      "start": { "line": 1, "column": 1, "offset": 0 },
+      "end": { "line": 4, "column": 1, "offset": 76 }
+    }
+  }
+}

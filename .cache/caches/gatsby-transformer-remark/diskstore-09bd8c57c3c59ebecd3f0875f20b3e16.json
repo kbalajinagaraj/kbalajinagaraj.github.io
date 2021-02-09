@@ -1,0 +1,85 @@
+{
+  "expireTime": 9007200867639285000,
+  "key": "transformer-remark-markdown-html-ast-cc44cd35aec9745b0e3a79c490eb4469-gatsby-remark-external-linksgatsby-remark-imagesgatsby-remark-code-titlesgatsby-remark-prismjs-",
+  "val": {
+    "type": "root",
+    "children": [
+      {
+        "type": "element",
+        "tagName": "ul",
+        "properties": {},
+        "children": [
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Worked on Smart Energy Hub - The future-proof way of integrating renewables, storage, and electric mobility infrastructures into our facilities with advanced technologies and scalability.",
+                "position": {
+                  "start": { "line": 2, "column": 3, "offset": 3 },
+                  "end": { "line": 2, "column": 190, "offset": 190 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 2, "column": 1, "offset": 1 },
+              "end": { "line": 2, "column": 190, "offset": 190 }
+            }
+          },
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "My responsibility: To increase the smartness by integrating sensors and writing a python application to linking it to cloud. I was also in-charge of developing a base for the machine learning platform the system.",
+                "position": {
+                  "start": { "line": 3, "column": 3, "offset": 193 },
+                  "end": { "line": 3, "column": 215, "offset": 405 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 3, "column": 1, "offset": 191 },
+              "end": { "line": 3, "column": 215, "offset": 405 }
+            }
+          },
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "Skills Set Utilized: Python, Matlab SIMULINK, Raspberry Pi, Mqtt cloud application development, Machine learning basics NN, KNN, Kmeans",
+                "position": {
+                  "start": { "line": 4, "column": 3, "offset": 408 },
+                  "end": { "line": 4, "column": 138, "offset": 543 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 4, "column": 1, "offset": 406 },
+              "end": { "line": 4, "column": 138, "offset": 543 }
+            }
+          },
+          { "type": "text", "value": "\n" }
+        ],
+        "position": {
+          "start": { "line": 2, "column": 1, "offset": 1 },
+          "end": { "line": 4, "column": 138, "offset": 543 }
+        }
+      }
+    ],
+    "position": {
+      "start": { "line": 1, "column": 1, "offset": 0 },
+      "end": { "line": 5, "column": 1, "offset": 544 }
+    }
+  }
+}

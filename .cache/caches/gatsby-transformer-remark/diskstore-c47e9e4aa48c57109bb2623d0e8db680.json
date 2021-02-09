@@ -1,0 +1,119 @@
+{
+  "expireTime": 9007200867639285000,
+  "key": "transformer-remark-markdown-ast-9a9adc946603e3531465a47b54ece382-gatsby-remark-external-linksgatsby-remark-imagesgatsby-remark-code-titlesgatsby-remark-prismjs-",
+  "val": {
+    "type": "root",
+    "children": [
+      {
+        "type": "list",
+        "ordered": false,
+        "start": null,
+        "spread": true,
+        "children": [
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Have worked on two external funded projects, namely:",
+                    "position": {
+                      "start": { "line": 2, "column": 3, "offset": 3 },
+                      "end": { "line": 2, "column": 55, "offset": 55 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 2, "column": 3, "offset": 3 },
+                  "end": { "line": 2, "column": 55, "offset": 55 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 2, "column": 1, "offset": 1 },
+              "end": { "line": 3, "column": 1, "offset": 56 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Design of adaptive controller for switched reluctance motor and BLDC drive based on swarm intelligence and neural network approach for Electric Vehicle applications",
+                    "position": {
+                      "start": { "line": 4, "column": 3, "offset": 59 },
+                      "end": { "line": 4, "column": 167, "offset": 223 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 4, "column": 3, "offset": 59 },
+                  "end": { "line": 4, "column": 167, "offset": 223 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 4, "column": 1, "offset": 57 },
+              "end": { "line": 5, "column": 1, "offset": 224 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Differential evolution with parameters adaptation strategy algorithm for solving real power economic dispatch incorporating power from renewable energy sources",
+                    "position": {
+                      "start": { "line": 6, "column": 3, "offset": 227 },
+                      "end": { "line": 6, "column": 162, "offset": 386 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 6, "column": 3, "offset": 227 },
+                  "end": { "line": 6, "column": 162, "offset": 386 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 6, "column": 1, "offset": 225 },
+              "end": { "line": 6, "column": 162, "offset": 386 },
+              "indent": []
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 2, "column": 1, "offset": 1 },
+          "end": { "line": 6, "column": 162, "offset": 386 },
+          "indent": [1, 1, 1, 1]
+        }
+      }
+    ],
+    "position": {
+      "start": { "line": 1, "column": 1, "offset": 0 },
+      "end": { "line": 7, "column": 1, "offset": 387 }
+    }
+  }
+}

@@ -1,0 +1,421 @@
+{
+  "data": {
+    "hero": {
+      "edges": [
+        {
+          "node": {
+            "frontmatter": {
+              "title": "",
+              "name": "Balaji Nagaraj Kumar",
+              "subtitle": "Human. Engineer. Leader",
+              "buttonText": "Get In Touch"
+            },
+            "html": "<p>Pioneering -> Digitalising Humans.<br>\nPreserving -> Humanising the Digital.</p>"
+          }
+        }
+      ]
+    },
+    "about": {
+      "edges": [
+        {
+          "node": {
+            "frontmatter": {
+              "title": "About Me",
+              "avatar": {
+                "childImageSharp": {
+                  "fluid": {
+                    "tracedSVG": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='400'%20height='711'%20viewBox='0%200%20400%20711'%20preserveAspectRatio='none'%3e%3cpath%20d='M217%2015l-6%204-3%203-4-3c-4-4-5-4-8-2l-4%201h7l-2%202c-2%202-2%202-5%200l-4-1-2-1c1-1%201-1-1-1l-3%201-2%203a984%20984%200%2000-27%2014c-3%202-4%203-5%206l-2%207-4%208-4%2010c-2%202-3%205-3%207l-3%2010c-4%2012-2%2034%202%2049%204%2011%204%2013%202%2013s0%206%203%207l2%203%201%203%202%2013a76%2076%200%20007%2033c0%203%208%2017%2012%2022l6%208%202%203%204%203%202%202v1h1l2%201%201%203-1%201h1c1-1%202-1%202%201%201%203%2015%2013%2016%2012l1%201%201%201c1-1%202%200%203%201%201%202%202%203%206%202h8c1%201%2010-2%2012-3h3c3%201%205-1%2030-19%2019-15%2022-18%2017-22-2-2-2-2-2%200s-2%204-2%202h-3l1-2%204-10a626%20626%200%200110-28c7-25%209-39%204-41-1%200-2-1-1-2l-3-1c-2%200-3%200-3-2l2-8%202-8a345%20345%200%2000-1-59l-3-6c-1-4-9-16-10-16-2%200-8-6-7-7%202-1-3-5-6-5s-6-1-10-4c-1-2-2-2-4-1s-2%201-4-1l-6-3-3-2c0-1-1-2-3-1l-4-1c-2-2-7-2-11-1m-11%2063c0%202-1%202-13%204l-8%202-1%201h-1l-3%202c-3%200-4%202-2%203v1l-2-1c0-2-4-2-9%200-2%200-7%209-7%2012l-3%208c-5%207-6%2010-6%2011v4l-1%207-1%206-1%202-1%2013c-1%2017%201%2028%205%2033l1%203%201%201%202%204c1%204%203%205%203%203h2l1%203%201%202v3c-1%202-1%202%201%203l1%204v3l1-1%202-3%201-2h1c2%200%201%203-1%203l-1%201%201%201c2-1%202%203%200%205l-1%202c2-1%202%200%202%204l3%202c3%200%204%200%206-4%203-5%203-8%200-12l-2-7c0-6%206-17%208-15l-1%201-1%202%2014-5c3-2%205-3%206-2v-1h3l1%201%205%201c3%202%206%202%206-1l-1-1c-2-1%207-9%209-9l1%201v1l1%202v2c3%200%203-1%202-4l-1-3c1-1-3-5-5-5-3%200-5-5-6-13s1-18%205-21l2-2c0-2%204-5%205-5%202%200%207-4%2010-7l5-3%201-1-1-1-1-1-13-10c-5-3-6-5-2-5%202%200%202%200%201-1-2-1-2-1%200-2s3-4%201-4l-1-2-4-2-5-4c-2-2-4-3-5-2v-1c0-2%200-2-2-2l-5-1c-2-2-3-2-3-1m58%2030l-1%202v1c-2%201-2%208-1%208l1%201%201%204c4%206%202%2013-2%2013-2%200-2%200-1%201h3c-1%201%200%202%202%204l2%204a742%20742%200%20001%2019l-2%201%201%201v2h-2c-1-1-1-1-1%201v2l-1%202-1%201c-2-1-2-6%200-7v-2l-1-5c0-4%200-4-8-5-7-1-10-2-7-3v-2c-2%200-8-6-8-8s0-2-3-1c-4%202-4%203-1%204%202%201%202%201-2%201-3%200-4%200-4%202%200%203%202%203%202%201%201-2%201-2%202-1l1%202-2%201c-1%201%202%2017%204%2021%201%201%202%204%201%206%200%205%202%209%204%209%203%200%208%204%2011%2010s5%207%207%201l3-5%201-2%201-2c1-2%202-2%203%200%202%203%207%203%208%201l2-3h1v1l1%201c0%204%202-1%202-6%201-17%200-25-2-36l-2-17c0-4-3-17-5-18l-2-3c-2-3-4-4-6-2m-98%2016c-3%203-8%2012-8%2014%200%201%203%201%2010-1l7-1-1%201c-2%200-7%205-6%206v4l2%201c1%203%204%201%203-1%200-2%202-5%204-5l1%202c0%203%203%206%208%206%204%200%205%200%204%201%200%201%200%202%202%202l1-1%201-1c2%202%203%200%202-2-1-1-1-1%201-2l2-1-1-4-2-4c-2-2-2-2%201-2l4-3c1-3%200-4-6-5l-11-3c-3-2-6-3-7-2l-3-1c-1-3-4-2-8%202m44%2076c0%202%201%204%203%204l1%201c0%202-1%202-3%200h-4c1%201%200%201-1%202l-2%201c2%203-4%203-10%200-4-2-6-1-6%203l-1%206%201%202h1l-1%202v1l1%204h1c1-1%201-1%201%201%200%204%200%205%203%206%201%200%202%201%201%202l1%201%201-1c0-2%202-3%204-2%203%202%203%202%204%200%202-2%205-2%203%200-1%202-1%202%201%202%203-1%204-1%202-3v-1l1-2-1-3-1-1c1-1-1-2-3-3l-4-2-2-1-1-1h10c13%200%2015-1%2015-4l-2-3-1-1c0-2-3-4-5-4-1%200-2-1-2-3-1-4-4-5-5-3m76%2029c3%208%202%2010-18%2038l-11%2015a415%20415%200%2000-100%20205c-2%2018-2%2018-3%2016s-2-2-2-1h-2l-3-2c-3-1-8-57-8-85%200-32%203-48%2016-85l7-25a1192%201192%200%20004-36c1-4%200-4-10%202-12%206-13%207-28%208l-16%202-9%201c-6%200-9%202-19%2013-8%2010-13%2018-15%2026l-5%2012-5%2012-5%2010-3%206-4%205c-5%205-6%208-6%2013l-3%2014-4%2013-5%206c-6%203-9%2011-9%2019l-3%2013a250%20250%200%2000-16%2047l-1%2042c0%2046-2%2040%2015%2049a847%20847%200%200151%2031%202015%202015%200%2001-30%2097l35%201h36v-14l2-20c2-8%2013-34%2014-33a784%20784%200%200125%2018c-2%206-3%2024-3%2036v13h241l-1-7-4-41a638%20638%200%2001-7-82l-1-10%205-14c8-19%2014-41%2019-58l3-14v-87l-1-86-23-14-19-10c-20-10-34-19-42-28-7-7-22-27-22-28%200-2-6-8-8-8l1%205m-112%2032c-1%202%201%2013%203%2019l2%207c0%204%201%2012%203%2015l1%203%203-2%204-3c4%200%202-9-4-21l-5-11-6-9-1%202m109%20219l-4%207-2%203-1%202-1%201h-3c-2%201-8%209-8%2011l-1%204c-1%202-1%202%201%202l3-1%205-2c6-2%209-4%207-7-1-2-1-2%201-2%205-2%209-8%209-13%200-6-2-8-6-5m-24%2035c-3%204-9%2012-9%2014h1c2-2%206-3%2014-1l16%201-1-4v-5l-1-3c0-3-2-4-11-4-4-1-6%200-9%202m-179%200h-1l-3%201-2%201-4%201c-4%202-4%203-4%206%201%207%2023%2023%2027%2020a227%20227%200%200014-24l-1%201%201-2v-1c-2-2-15-2-18-1-2%201-2%201-3-1%200-2-4-3-6-1m209%204l-2%204-3%204-1%201c-2%201%207%206%2012%207%207%201%2011-3%2011-12%200-5-6-7-11-4l-3%203-1%201v-3l-1-3c-1%200-2%201-1%202m-32%2010l-3%203-5%202c-5%201-7%203-6%207s1%204%2010%203c8-1%2014-1%2014%201-1%202-4%203-6%203-2-2-4-1-6%201-2%201-2%201-2-1s0-2-3-2c-6%202-6%206%200%206l4%202c3%204%2011%205%2013%202l5-3c3-1%204-3%204-4%200-2%200-2%202-2%2012%204%2018%201%2018-6v-4l-5-1-7%201c-2%202-5%202-8%200l-3-1c-2%200-2-1-2-3%200-3-1-3-5-3l-6-1h-3'%20fill='%2364ffda'%20fill-rule='evenodd'/%3e%3c/svg%3e",
+                    "aspectRatio": 0.5627009646302251,
+                    "src": "/static/33acc38b300af6de6f63b9b1d6a66488/ea4ab/me.jpg",
+                    "srcSet": "/static/33acc38b300af6de6f63b9b1d6a66488/477ba/me.jpg 175w,\n/static/33acc38b300af6de6f63b9b1d6a66488/06776/me.jpg 350w,\n/static/33acc38b300af6de6f63b9b1d6a66488/ea4ab/me.jpg 700w,\n/static/33acc38b300af6de6f63b9b1d6a66488/8275e/me.jpg 900w",
+                    "srcWebp": "/static/33acc38b300af6de6f63b9b1d6a66488/89afa/me.webp",
+                    "srcSetWebp": "/static/33acc38b300af6de6f63b9b1d6a66488/9fca7/me.webp 175w,\n/static/33acc38b300af6de6f63b9b1d6a66488/37a4e/me.webp 350w,\n/static/33acc38b300af6de6f63b9b1d6a66488/89afa/me.webp 700w,\n/static/33acc38b300af6de6f63b9b1d6a66488/cd91b/me.webp 900w",
+                    "sizes": "(max-width: 700px) 100vw, 700px"
+                  }
+                }
+              },
+              "skills": [
+                "Product Management",
+                "Programming",
+                "Digital Products",
+                "C, C++, Java, Python (+++)",
+                "Project Management",
+                "JS, HTML, CSS, Go (++)"
+              ]
+            },
+            "html": "<p>A Conscientious 27-year-old passionate Human. Engineer. Leader.\nCollectively, Having studied at five different countries, Working for Volvo cars, Having worked for Ford motor projects and Co-authoring technical papers in four International Science Citation Indexed journals made me - internationally fit and futuristic in my visions.</p>\n<p>All-time Intentional Learner !\nInnovation, design, prototyping, management and consultation of Computer/Electrical Products and Systems.\nCurrently working on Products touching millions of users - From Charging to Mobility emphasis on next generation Computer Applications for Volvo Cars</p>"
+          }
+        }
+      ]
+    },
+    "jobs": {
+      "edges": [
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Digital Products Lead - Global Graduate",
+              "company": "Volvo Cars R&D (Innovation)",
+              "location": "Gothenburg, VG, Sweden",
+              "range": "August 2019 - Present",
+              "url": "https://group.volvocars.com/company/innovation"
+            },
+            "html": "<ul>\n<li>Started as the Global Graduate is a highly selective (&#x3C;1% acceptance rate) full-time rotational program at Volvo cars group, where I get to rotate within the teams and perform innovative projects for the future.</li>\n<li>Rotating different teams including:</li>\n<li>Electric Drives and Control: Product Development</li>\n<li>AI in Commercial Business Transformation of Volvo Cars: Product Next-Gen</li>\n<li>Connected Cars: Product Creation - End-to-End AWS Cloud DevOps product creation in production scale</li>\n<li>Autonomous Driving Data: Product Visualization - Big-Data visualization from different sensors in Autonomous Cars</li>\n<li>Open Innovation Arena: Product Innovation - Tech Architect/Lead for the Pilot Digital Electrification Project - Aiming to touch Millions of Happy Volvo Cars Customers!</li>\n<li>Commercial Digital: Product Commercialisation - Technical Architect/Lead - Working on my Second Digital Product Touching Partners and Millions of Happy Volvo Cars Customers!</li>\n<li>Aiming to externalise the CAR as an IoT Device</li>\n</ul>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Embedded Software Engineer",
+              "company": "Visteon",
+              "location": "Chennai, India",
+              "range": "September 2015 - June 2017",
+              "url": "https://www.visteon.com/"
+            },
+            "html": "<ul>\n<li>My close-to-two year industrial work experience with VISTEON Technical center (Design and development) as Embedded Engineer has helped me understand business viewpoint and has also given me the opportunity to play with next generation Microcontrollers and control architectures for electric vehicle applications.</li>\n<li>Worked on Battery Management system (one of the electric power-train ECU) Control software development and HIL Verification.</li>\n<li>Worked on Powertrain Electronics (Electrical Engineering) delivering and developing advanced Engine Management Systems software functionality for FORD, Nissan, Land Rover Projects.</li>\n<li>Worked on Infotainment Systems for FORD car projects</li>\n<li>Software requirements, defining software delivery timing based on key milestones.</li>\n<li>Engine software function development, calibration (software application) for Engine speed damping, variant coding and Start/Stop, vehicle level functionality and system integration,</li>\n<li>Validation, version management, functional safety sign off and feature sign off for customer intent release.</li>\n<li>Implementation specification and algorithm proposal for advanced functionalities of BMS.</li>\n<li>Skilled in Matlab &#x26; Simulink.</li>\n<li>Vehicle level and component level testing of BMS ECU.</li>\n<li>Hands-on experience on Automation scripts for HIL Verification &#x26; Validation.</li>\n</ul>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Power Engineer",
+              "company": "Taylor",
+              "location": "Eindhoven, Netherlands",
+              "range": "November 2018 - August 2019",
+              "url": "https://taylor.solar/"
+            },
+            "html": "<ul>\n<li>Worked on a startup Part-Time : Bootstrapping the product in addition to the Internship and Thesis at Academics</li>\n<li>Design and development of Power Converter Control Design and Powerline Communication</li>\n<li>Skills: Matlab, Power Electronics, Hardware prototyping, Testing, Solar PV, Powerline communications, Soldering</li>\n</ul>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Undergraduate Research Intern",
+              "company": "NIOT",
+              "location": "Chennai, India",
+              "range": "June 2014 - August 2014",
+              "url": "https://www.niot.res.in/niot1/index.php"
+            },
+            "html": "<ul>\n<li>Completed Internship at NIOT (National Institute of Ocean Technology) Chennai, on Remotely operated under-water electric vehicle - on its power system failure analysis under central govt scientist-C for about 1 Month</li>\n</ul>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Technical Consultant - Student",
+              "company": "International Consulting Network",
+              "location": "Stockholm, Sweden",
+              "range": "September 2017 - March 2018",
+              "url": "https://www.kth.se/blogs/icon/2018/03/meet-the-kth-chapter-21/"
+            },
+            "html": "<ul>\n<li>Consulted a 20 year old Brazilian Company.</li>\n<li>In a team of 6 international consultants, each with different time zones helped the client to achieve international scale up of their business.</li>\n<li>Role: International outlook of the \"Client\" Business Sector</li>\n</ul>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Underground Student Research Assistant",
+              "company": "SSN Labs",
+              "location": "Chennai, India",
+              "range": "September 2015 - June 2017",
+              "url": "https://www.ssn.edu.in/"
+            },
+            "html": "<ul>\n<li>Have worked on two external funded projects, namely:</li>\n<li>Design of adaptive controller for switched reluctance motor and BLDC drive based on swarm intelligence and neural network approach for Electric Vehicle applications</li>\n<li>Differential evolution with parameters adaptation strategy algorithm for solving real power economic dispatch incorporating power from renewable energy sources</li>\n</ul>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Summer Intern Fellowship",
+              "company": "CERN",
+              "location": "Geneva, Switzerland",
+              "range": "July 2018 - August 2018",
+              "url": "https://home.cern/"
+            },
+            "html": "<ul>\n<li>Worked with CERN experts to develop strategies for new ventures solving problems.</li>\n<li>Extensive application of Superconductivity based Magnetic Energy Storage.</li>\n<li>Structured Laser Beam based LiDAR for Next generation Autonomous vehicle.</li>\n<li>Have worked on a miniature prototype autonomous robot with concept CERN patented novel Laser based LiDAR</li>\n</ul>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "AI Algorithm Design Engineer",
+              "company": "LEDSAFARI",
+              "location": "Laussane, Switzerland",
+              "range": "June 2018 - August 2018",
+              "url": "https://ledsafari.com/"
+            },
+            "html": "<ul>\n<li>Design of a Machine learning based prediction algorithm for solar Photo-voltaic parameter prediction in remote locations.</li>\n<li>Skill Set utilized: Python, ANN, Deep Learning, Mathematics, Data processing, Matlab NN, Solar PV Characteristics</li>\n</ul>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Industrial Innovation Student",
+              "company": "Ferroamp",
+              "location": "Eindhoven, Netherlands",
+              "range": "January 2018 - June 2018",
+              "url": "https://ferroamp.com/en/"
+            },
+            "html": "<ul>\n<li>Worked on Smart Energy Hub - The future-proof way of integrating renewables, storage, and electric mobility infrastructures into our facilities with advanced technologies and scalability.</li>\n<li>My responsibility: To increase the smartness by integrating sensors and writing a python application to linking it to cloud. I was also in-charge of developing a base for the machine learning platform the system.</li>\n<li>Skills Set Utilized: Python, Matlab SIMULINK, Raspberry Pi, Mqtt cloud application development, Machine learning basics NN, KNN, Kmeans</li>\n</ul>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Thesis Worker",
+              "company": "Alliander",
+              "location": "Utrecht, Netherlands",
+              "range": "November 2018 - August 2019",
+              "url": "https://www.alliander.com/en/"
+            },
+            "html": "<ul>\n<li>Design and modelling of the effect of Electric vehicle on the future electricity grids - Load side time domain modelling with power quality prediction.</li>\n<li>The important recommendation from this work is to estimate and propose the current harmonic limits for LV installations.</li>\n<li>This addresses the challenges with respect to growing new age Electric Vehicle loading demands and would be helpful for the utility companies and stakeholders to make informed decision of their rights and responsibilities in the network.</li>\n<li>The main objective of this work is to analyze and study the current harmonic limit estimation of the individual loads (POC) due to the impact of Electric Vehicle and its Chargers in a typical Dutch low voltage electrical grid.</li>\n<li>Skills: Powerfactory, Python, Matlab, Power quality standards, EV Charging standards, Power Grid Standards</li>\n</ul>"
+          }
+        }
+      ]
+    },
+    "study": {
+      "edges": [
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Smart Electrical Networks and Systems",
+              "company": "KTH Royal Institute of Technology",
+              "location": "Stockholm, Sweden",
+              "range": "August 2017 - June 2018",
+              "url": "https://www.kth.se/en"
+            },
+            "html": "<ul>\n<li>MSc SENSE - Smart Electrical Networks and Systems is a program that aims to develop skills in electrical power engineering, business skills, and innovation management.</li>\n<li>I have joined students from all over the world of 20 different nationalities for two years at two different universities and one of Europe’s leading business schools.</li>\n<li>In First year at KTH, I have focused on power electronics, electrical machines, computer application in electric power systems, energy management and others.</li>\n</ul>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Innovations in Power Engineering",
+              "company": "Polytechnic University of Catalonia",
+              "location": "Barcelona, Spain",
+              "range": "October 2017 - November 2017",
+              "url": "https://www.upc.edu/en"
+            },
+            "html": "<ul>\n<li>MSc SENSE - Smart Electrical Networks and Systems is a program that aims to develop skills in electrical power engineering, business skills, and innovation management.</li>\n<li>I have joined students from all over the world of 20 different nationalities for two years at two different universities and one of Europe’s leading business schools.</li>\n<li>Studied Innovations in Power engineering as a field trip study in collaboration with industrial partnes across the Barcelona, Spain - in Spain's one of the top Technical University as a part of the Autumn Education Module</li>\n</ul>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Bachelor of Electrical and Electronic Engineering",
+              "company": "SSN College of Engineering",
+              "location": "Chennai, India",
+              "range": "August 2011 - June 2015",
+              "url": "https://www.ssn.edu.in/"
+            },
+            "html": "<ul>\n<li>The motivation for academic achievement blended with my inclination for Electrical Engineering, concreted my chances of entry into Electrical and Electronics Engineering program (B.E- EEE) in - Sri Sivasubramaniya Nadar College of Engineering (SSN), Anna University, Chennai.</li>\n<li>SSN has also been named as the Best Private Institute in Asia by World Consulting and Research Corporation.</li>\n<li>My constant resolve to improve my technical skills helped me to secure CGPA of 8.82/10 (approximately 94.8 percentile, topper cgpa: 9.4) and 34th rank amongst 14862 students studied under Anna University.</li>\n<li>All my academic achievements, gold medals merit tuition fee scholarships in my bachelor’s degree for securing First class with distinction grade boosted my confidence as an engineer – to help engineer the future.</li>\n</ul>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Innovations in Electric Engineering",
+              "company": "Grenoble Institute of Technology",
+              "location": "Grenoble, France",
+              "range": "November 2017 - November 2017",
+              "url": "https://www.grenoble-inp.fr/en"
+            },
+            "html": "<ul>\n<li>MSc SENSE - Smart Electrical Networks and Systems is a program that aims to develop skills in electrical power engineering, business skills, and innovation management.</li>\n<li>I have joined students from all over the world of 20 different nationalities for two years at two different universities and one of Europe’s leading business schools.</li>\n<li>Studied Innovations in electric engineering as a field trip study in collaboration with industrial partnes across the Grenoble, France - in France's one of the top Technical University as a part of the Autumn Education Module</li>\n</ul>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Entrepreneurship and Business Management",
+              "company": "ESADE Business School",
+              "location": "Barcelona, Spain",
+              "range": "June 2018 - August 2018",
+              "url": "https://www.esade.edu/en"
+            },
+            "html": "<ul>\n<li>This course and its contents are designed around the concept of a new tech-based\nthe entrepreneurial venture, specialty in the areas of sustainable energy.</li>\n<li>Worked on an entrepreneurial venture - to create value in a competitive energy environment with demonstrating entrepreneurship as an opportunity value creation process and the need to focus on the customer/user/client to build a successful new company</li>\n<li>Got introduced to designing and validation of business models</li>\n<li>Have a first approach to the financial and economic understanding of a new venture</li>\n<li>Know and understand the financial resources available to a new venture</li>\n<li>Understanding leadership and How to protect the business by protecting any new generated knowledge</li>\n</ul>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Smart Electrical Networks and Systems",
+              "company": "Technical University of Eindhoven",
+              "location": "Eindhoven, Netherlands",
+              "range": "August 2018 - August 2019",
+              "url": "https://www.tue.nl/en/"
+            },
+            "html": "<ul>\n<li>MSc SENSE - Smart Electrical Networks and Systems is a program that aims to develop skills in electrical power engineering, business skills, and innovation management.</li>\n<li>I have joined students from all over the world of 20 different nationalities for two years at two different universities and one of Europe’s leading business schools.</li>\n<li>As a part of the second year of my MSc SENSE at TU/e, Eindhoven, the Netherlands - Courses Focuses on the stronghold of Netherlands Electrical Sector: Underground Power Cables, Power Quality Analysis and others</li>\n<li>Also on Electric Powertrain, and exciting internships with top research and industry partners in Netherlands</li>\n</ul>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Power Quality and Computing Applications",
+              "company": "AGH University of Science and Technology",
+              "location": "Kraków, Poland",
+              "range": "December 2017 - December 2017",
+              "url": "https://www.agh.edu.pl/"
+            },
+            "html": "<ul>\n<li>MSc SENSE - Smart Electrical Networks and Systems is a program that aims to develop skills in electrical power engineering, business skills, and innovation management.</li>\n<li>I have joined students from all over the world of 20 different nationalities for two years at two different universities and one of Europe’s leading business schools.</li>\n<li>Studied Next generation computing applications in Power Quality field - in Poland's one of the top Technical University as a part of the Winter Education Module</li>\n</ul>"
+          }
+        }
+      ]
+    },
+    "featured": {
+      "edges": [
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Route Prediction and Vehicle Energy Optimisation",
+              "cover": {
+                "childImageSharp": {
+                  "fluid": {
+                    "tracedSVG": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='400'%20height='257'%20viewBox='0%200%20400%20257'%20preserveAspectRatio='none'%3e%3cpath%20d='M252%2015v15l1%2014h73l74%201V15H252m-75%2032c-5%206-4%2014%203%2018%209%204%2019-6%2015-15-4-7-12-8-18-3m75%2031v31h148V46H252v32m-52-7c-1%203%202%206%207%207l5%202%2017%2032%2016%2032%2015%2012c8%207%2014%2014%2013%2014l-48%2027-18%201c-12%200-15%200-14%202h30l2-1c-1-1-1-1%201-1%203%201%2012-3%2010-4v-1c2%201%209-3%2021-10l20-10%2027%2032%2026%2031h-5l-60-4h-8v3c-1%204-2%204-7%203s-6%200-6%205c0%206-1%208-3%208a3819%203819%200%2000-91-21c-2%200-1-2%202-12l3-14c0-2-1-3-11-7-18-7-21-8-38-21-13-10-18-13-19-12-1%200%203%204%2017%2014%2019%2014%2021%2016%2037%2022l11%204-4%2014-3%2014%2050%2012c54%2012%2052%2012%2052%205s1-8%204-7c5%202%207%201%208-3l1-3h8c49%204%2066%204%2072%203%204-2%205-2%204-3h1c2%200%202%200%201-1v-2l-6%202c-5%201-5%201-7-1-32-40-55-66-70-79-16-15-13-10-36-54l-13-25-4-1c-3%200-5-1-7-3s-2-2-3-1M62%20142l-4%207c-1%2011%2014%2016%2020%207%207-11-7-23-16-14m113-1c-8%205-5%2019%206%2019%205%200%209-2%2010-7%203-10-7-17-16-12'%20fill='%2364ffda'%20fill-rule='evenodd'/%3e%3c/svg%3e",
+                    "aspectRatio": 1.5625,
+                    "src": "/static/e70801cc7d44b22b9c683e6d624a5aae/ea4ab/pePic.jpg",
+                    "srcSet": "/static/e70801cc7d44b22b9c683e6d624a5aae/477ba/pePic.jpg 175w,\n/static/e70801cc7d44b22b9c683e6d624a5aae/06776/pePic.jpg 350w,\n/static/e70801cc7d44b22b9c683e6d624a5aae/ea4ab/pePic.jpg 700w,\n/static/e70801cc7d44b22b9c683e6d624a5aae/aa39f/pePic.jpg 720w",
+                    "srcWebp": "/static/e70801cc7d44b22b9c683e6d624a5aae/89afa/pePic.webp",
+                    "srcSetWebp": "/static/e70801cc7d44b22b9c683e6d624a5aae/9fca7/pePic.webp 175w,\n/static/e70801cc7d44b22b9c683e6d624a5aae/37a4e/pePic.webp 350w,\n/static/e70801cc7d44b22b9c683e6d624a5aae/89afa/pePic.webp 700w,\n/static/e70801cc7d44b22b9c683e6d624a5aae/ea3ae/pePic.webp 720w",
+                    "sizes": "(max-width: 700px) 100vw, 700px"
+                  }
+                }
+              },
+              "tech": [
+                "Java",
+                "SpringBoot",
+                "Java",
+                "Kafka streams",
+                "AWS and Kubernetes",
+                "Spinnaker",
+                "Git",
+                "Jenkins",
+                "ML – DB Scan and Bayessian implementation for route prediction",
+                "Optimisation Algorithms – Second order cone programming to linear programming"
+              ],
+              "github": "",
+              "external": ""
+            },
+            "html": "<p>This project deals with the predictive efficiency of the car - By predicting the route of the car based on over 60+ input parameters and estimating the route parameters based on the prediction thereby optimising the vehicle energy consumption pattern in a novel second order cone programming algorithms. I have implemented the optimisation framwork in production scale and worked a bit on the route prediction algorithms as a part of the 6 month assignment.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Public API 1: Digital Electrification",
+              "cover": {
+                "childImageSharp": {
+                  "fluid": {
+                    "tracedSVG": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='400'%20height='600'%20viewBox='0%200%20400%20600'%20preserveAspectRatio='none'%3e%3cpath%20d='M120%205c19%2017%2030%2021%2077%2023l25%202h3l-1%205-1%206v5a224%20224%200%2001-3%2015c0%209%201%208-25%2010-49%204-58%208-65%2031-9%2026-5%2043%2010%2051a647%20647%200%2000258%204c2%200%202-3%202-42%200-40%200-43-2-43a705%20705%200%2000-58-5l6-17%206-17%2024-1h24V1l-58-1h-58v3c0%204-2%205-3%201V0H115l5%205m42%20224c-17%204-26%2013-22%2022l2%204a730%20730%200%2001-61%204l-2%201%201%2025v26l-2%201c-3%200-5%204-5%2010%200%205-1%209-2%209l-11-1a137%20137%200%2001-20-2l-14-2-22-2%202%204c2%205%200%2018-4%2024l-2%203v245h401V476c0-68%200-122-1-120%200%202-1%203-3%204a124%20124%200%2001-38-5%20180%20180%200%2000-38-7c-15-4-24-5-54-4-8%200-9%200-13-3s-5-3-10-3c-14%202-19%204-23%2010-1%201-1%201-4-1l-4-2-2-1c-1-1-5-2-6-1h-10c-11%201-10%202-11-17%200-13%200-15-2-16-4-4-4-29-1-30l2-3c0-2%201-3%203-4l6-2c0-3-3-4-3-2-2%204-7%200-7-5%200-2%200-2%201-1l1%201h4l6-3c10-4%2017-11%2017-17%200-13-25-21-49-15m-75%2041l-2%203-2%203%201%208v7l34-1c40%200%2044-1%2045-4v-4l-1-6v-5h-21a5625%205625%200%2000-51%200l-1-1h-2m33%20112l4%208%201%206-2%202-3%203%202%202%202%204%201%202v4l1%204%201-4%202-4%202-3c-1-1%200-2%201-2%203-2%202-5-1-6-3-2-4-3-6-9-2-5-3-8-5-8v1m-30%2025l1%206h9v-10l-5-1h-5v5'%20fill='%2364ffda'%20fill-rule='evenodd'/%3e%3c/svg%3e",
+                    "aspectRatio": 0.6653992395437263,
+                    "src": "/static/ce68636d9d1633a41d0bfbb22ec10510/ea4ab/dePic.jpg",
+                    "srcSet": "/static/ce68636d9d1633a41d0bfbb22ec10510/477ba/dePic.jpg 175w,\n/static/ce68636d9d1633a41d0bfbb22ec10510/06776/dePic.jpg 350w,\n/static/ce68636d9d1633a41d0bfbb22ec10510/ea4ab/dePic.jpg 700w,\n/static/ce68636d9d1633a41d0bfbb22ec10510/3055e/dePic.jpg 1050w,\n/static/ce68636d9d1633a41d0bfbb22ec10510/eff08/dePic.jpg 1400w,\n/static/ce68636d9d1633a41d0bfbb22ec10510/13dd3/dePic.jpg 3648w",
+                    "srcWebp": "/static/ce68636d9d1633a41d0bfbb22ec10510/89afa/dePic.webp",
+                    "srcSetWebp": "/static/ce68636d9d1633a41d0bfbb22ec10510/9fca7/dePic.webp 175w,\n/static/ce68636d9d1633a41d0bfbb22ec10510/37a4e/dePic.webp 350w,\n/static/ce68636d9d1633a41d0bfbb22ec10510/89afa/dePic.webp 700w,\n/static/ce68636d9d1633a41d0bfbb22ec10510/78e7a/dePic.webp 1050w,\n/static/ce68636d9d1633a41d0bfbb22ec10510/03d34/dePic.webp 1400w,\n/static/ce68636d9d1633a41d0bfbb22ec10510/796e7/dePic.webp 3648w",
+                    "sizes": "(max-width: 700px) 100vw, 700px"
+                  }
+                }
+              },
+              "tech": [
+                "Python",
+                "FastAPI",
+                "Linux",
+                "Flexray",
+                "Can",
+                "Node JS",
+                "Git",
+                "Jenkins",
+                "Spinnaker"
+              ],
+              "github": "",
+              "external": ""
+            },
+            "html": "<p>With world getting open - working on products that opens up the potential of the traditional locked cars - touching millions of users through car signals open API development. This is the first product relating to the digital electrification initiatives</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Online GPU Big Data Visualisation",
+              "cover": {
+                "childImageSharp": {
+                  "fluid": {
+                    "tracedSVG": "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='400'%20height='244'%20viewBox='0%200%20400%20244'%20preserveAspectRatio='none'%3e%3cpath%20d='M0%20122v122h401V0H0v122m290-86h-2c-1%200-2%200-1%201v3l-1-1v-1c-3%200-2%203%200%203l2%201-2%202c-2%202-2%202-1%204v5c-2%202-2%203%202%203%201%200%202%200%201%202h1c1-2%203%200%203%203v4c-1-1-2%200-2%201l4%201a432%20432%200%200051%202l46-1-3-1h3c6%200%202-5-4-5l-5-1-2-1-2%201-5%201h-6l3-1c4%200%205-2%201-2h-5l-3-4-3-4v-5c0-4%200-4-2-4s-2%201-2%203l-1%203v1l1%201c-1%201%200%201%201%201v1c-1%201-1%201%201%202l1%201v3h-3l-15%201-15%201%202%201%203%201-2%201-3-1-1-1v1l-1%201-2-2h-3c1-1%200-1-5-1-4%200-6%200-7-2-1-1-1-1%201-1h1l1-1h5l4%201c3%200%204-1%204-4s0-4-2-4l-2-1h2l-1-5-2-2h-1c-1-2-1-2-2%200l-1%202v-2h-1c-1%201-1%201-1-2l-2-1-1-1c0-2-1-2-7-2s-7%201-7%202l-1%202v4l1%201c-2%203-4%201-4-4l-1-4m64%200l4%201c3-1%203-1%203%201-1%201-1%202%202%201%202%200%202%200%201%201-2%201-2%203-2%206%201%206%201%206%206%207%206%200%207-1%207-6%200-4-1-6-4-4h-2v-1l1-2-2%201-2-1c-1-3-1-3%202-3l2%201%203%201%202-2-2-1h-2l-8-1-9%201M168%2065l-1%202c0%201-1%202-5%203-6%200-9%202-7%203v3h2v4h-3l2%203c3%204%205%205%2012%209%206%203%2015%2011%2015%2014l2%202%201%202c0%202-1%202-6%202-3%200-3%201-2%202v2c-1-1-3%200-4%201l-7%204c-6%202-8%204-5%204l1%201-2%201v-1c1-2-1-1-3%201l-3%204%203-2%201-1%201%202c1-1%204%200%203%201l-2%201-3%201c-1%201-1%201%202%201h1l-2%204%201-1h2c0%204%203%202%203-1%200-4%206-11%208-9%200%201%202%200%204-3%203-2%205-3%208-3l4-1c2-3%203%201%203%209v10l8%201h9v-8c0-10-1-12-5-12l-3-2c0-2%206%200%2010%202%202%202%204%202%204%201l6%201c1%202%2011%208%2012%208l-1-2c-2-1-2-2-1-3v-1l1-1c2-1%200-2-7-4-2-1-2-1-1-3v-1l-2%201-1%201c-1%200-2-1-2-4l-1-4v-1l1-5c-1-5-1-6%201-6s3-1%203-4-1-3-4-3-4%200-4%203c0%202-1%203-2%203-2%200-2%201-2%203v4l-5-6-6-5%204%206c5%205%208%2010%207%2011l-7%202c-6%200-6%200-8-3-2-4-12-13-14-15-3-1-3-9%200-9s3-2%200-2l-2-3-4-4c-4-2-4-2-3-3%202-1%202-4%201-6%200-2-5-3-6-1M12%2077c0%2010%200%2023%201%2017v-4c0-2%202-4%203-3%201%202%203%200%204-4v-3l2%204%202%205v-4l2-8%201-4%201-2%201-2c1-1%202%205%203%2012%201%206%204%208%208%208%203-1%203-2%203-4l1-3%201%202c0%202%201%203%202%203%202%201%203%200%203-3%200-4%201-6%203-6l2-1%201-2%204-3c3-3%204-2%204%204%200%209%205%2011%209%206%202-2%203-3%204-2%202%200%203-2%200-2-1-1-2%200-7%204-3%203-4%202-4-5-1-8-3-10-6-7l-4%203-2%202-2%201c-2-1-3%202-3%206%200%206-3%204-4-3l-1-5c-1-1-2%205-2%2010%200%202%200%203-2%203-4%200-6-3-6-7l-4-14c-2%200-4%203-5%209-2%207-3%208-3%205-1-4-3-4-4%200-1%205-1%206-2%204l-1-1c-2%200-2-2-2-8%200-12-1-11-1%202m239%2010l-2%204-1%203c-3%200-4%2012-1%2014%203%204%206%202%207-6l-1-7c-1-1-1-1%201-1s4-2%204-4c0-5-4-6-7-3m-118%2027v4l3%206-3%202c-3%200-4%201-2%203%201%202%203%202%203%201h2c2%203%204%202%205-1%200-5-1-8-4-11-2-1-3-3-3-5v-3l-1%204m19%2040v9c1%203%200%204-1%205l-2%202v2l-1%201v1c1%201%203%206%202%207l-1-2h-1c-1%202-1%203%202%203h2l1-2%201%202v2l1%202c1%201%201%200%201-2v-3l1-1c-1-1%200-1%201-1v-1c-3-2-4-8-2-8v-6c2-1%202-1-1-3-2-2-3-4-1-4v-5c1-3%201-3-1-3-1%200-2%201-1%205m149-1l-1%204-1%203-1%206-2%206-1%2013%202-5c0-2%201-3%201-1v2l2-2c1-2%201-2%201%200-3%2010-4%2024-2%2024s5-12%205-18l1-3%202-10-3%202c-1%201-1%201-1-2l3-5v-2l2-1c-1%200%203-4%204-3l1-1c-1-1%200-1%201-1v3h5l3%201c2%202%203-1%203-6%200-4-2-9-2-6%200%202-1%202-3%202s-3%200-2%201h4l2%201c0%201%200%202-1%201l-1%201h-10%201l1-1v-1l2-2c0-4-1-4-7-1-3%201-4%203-4%204l-1%202v-5c0-4-2-4-3%200M4%20212l1%204h25v-8H4v4'%20fill='%2364ffda'%20fill-rule='evenodd'/%3e%3c/svg%3e",
+                    "aspectRatio": 1.6355140186915889,
+                    "src": "/static/470c351c0613dfc715e3ff58fb996a4e/ea4ab/demo.jpg",
+                    "srcSet": "/static/470c351c0613dfc715e3ff58fb996a4e/477ba/demo.jpg 175w,\n/static/470c351c0613dfc715e3ff58fb996a4e/06776/demo.jpg 350w,\n/static/470c351c0613dfc715e3ff58fb996a4e/ea4ab/demo.jpg 700w,\n/static/470c351c0613dfc715e3ff58fb996a4e/3055e/demo.jpg 1050w,\n/static/470c351c0613dfc715e3ff58fb996a4e/eff08/demo.jpg 1400w,\n/static/470c351c0613dfc715e3ff58fb996a4e/70ff9/demo.jpg 1600w",
+                    "srcWebp": "/static/470c351c0613dfc715e3ff58fb996a4e/89afa/demo.webp",
+                    "srcSetWebp": "/static/470c351c0613dfc715e3ff58fb996a4e/9fca7/demo.webp 175w,\n/static/470c351c0613dfc715e3ff58fb996a4e/37a4e/demo.webp 350w,\n/static/470c351c0613dfc715e3ff58fb996a4e/89afa/demo.webp 700w,\n/static/470c351c0613dfc715e3ff58fb996a4e/78e7a/demo.webp 1050w,\n/static/470c351c0613dfc715e3ff58fb996a4e/03d34/demo.webp 1400w,\n/static/470c351c0613dfc715e3ff58fb996a4e/80926/demo.webp 1600w",
+                    "sizes": "(max-width: 700px) 100vw, 700px"
+                  }
+                }
+              },
+              "tech": ["Nvidia Drive", "C++", "Python", "Sockets", "Networking", "XVIZ - Uber"],
+              "github": "",
+              "external": ""
+            },
+            "html": "<p>Relaying Autonomous data online (live) directly from the sensors to the GPU to linux based light-weight full stack tool based on UBER framework adjustments. Could able to stream less than 8Gb Data online and visualise with point accuracy - also with a ML object detection on the camera inputs.</p>"
+          }
+        }
+      ]
+    },
+    "projects": {
+      "edges": [
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Design of adaptive controller for switched reluctance motor and BLDC drive based on swarm intelligence and neural networks approach",
+              "tech": [
+                "Matlab",
+                "Switched Reluctance Motor",
+                "Solid State Drives",
+                "Python",
+                "DNN"
+              ],
+              "github": "",
+              "external": ""
+            },
+            "html": "<p>This project attempts to employ and investigate neural based approaches as interpolation tools for modeling of Switched Reluctance Motor (SRM) drive. Precise modeling of SRM is essential to analyse the performance of control strategies for variable speed drive application.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Design and Development of a driver for WAVE - 802.11p with AUTOSAR complex device drivers",
+              "tech": ["Vector AUTOSAR", "802.11p", "CDD", "C++", "python"],
+              "github": "",
+              "external": ""
+            },
+            "html": "<p>Vehicular environments impose a set of new requirements on today's wireless communication systems. This project aims for integrating 802.11x wireless communincation stack for the AUTOSAR complex device drivers</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Design and modelling of the effect of Electric vehicle on the future electricity grids - Load side time domain modelling with power quality prediction.",
+              "tech": [
+                "Python",
+                "Powerfactory",
+                "Matlab",
+                "EV Charging Standards",
+                "full-stack devops"
+              ],
+              "github": "",
+              "external": ""
+            },
+            "html": "<p>The important recommendation from this work is to estimate and propose the current harmonic limits for LV installations. This addresses the challenges with respect to growing new age Electric Vehicle loading demands and would be helpful for the utility companies and stakeholders to make informed decision of their rights and responsibilities in the network.</p>"
+          }
+        }
+      ]
+    },
+    "contact": {
+      "edges": [
+        {
+          "node": {
+            "frontmatter": { "title": "Get In Touch", "buttonText": "Say Hello" },
+            "html": "<p>Super happy to present my short intro here! But always welcome to drop your reflections / more info /basically anything you feel to my email here! Exciting to get in touch with you! Grateful for your time and Have a great day ahead!</p>"
+          }
+        }
+      ]
+    }
+  },
+  "pageContext": {}
+}

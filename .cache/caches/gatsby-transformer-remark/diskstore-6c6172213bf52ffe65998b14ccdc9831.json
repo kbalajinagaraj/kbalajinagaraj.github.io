@@ -1,0 +1,305 @@
+{
+  "expireTime": 9007200867639285000,
+  "key": "transformer-remark-markdown-ast-5b91dcf9fb53931f5b868373b0de4024-gatsby-remark-external-linksgatsby-remark-imagesgatsby-remark-code-titlesgatsby-remark-prismjs-",
+  "val": {
+    "type": "root",
+    "children": [
+      {
+        "type": "list",
+        "ordered": false,
+        "start": null,
+        "spread": true,
+        "children": [
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Started as the Global Graduate is a highly selective (<1% acceptance rate) full-time rotational program at Volvo cars group, where I get to rotate within the teams and perform innovative projects for the future.",
+                    "position": {
+                      "start": { "line": 2, "column": 3, "offset": 3 },
+                      "end": { "line": 2, "column": 214, "offset": 214 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 2, "column": 3, "offset": 3 },
+                  "end": { "line": 2, "column": 214, "offset": 214 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 2, "column": 1, "offset": 1 },
+              "end": { "line": 2, "column": 214, "offset": 214 },
+              "indent": []
+            }
+          },
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Rotating different teams including:",
+                    "position": {
+                      "start": { "line": 3, "column": 3, "offset": 217 },
+                      "end": { "line": 3, "column": 38, "offset": 252 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 3, "column": 3, "offset": 217 },
+                  "end": { "line": 3, "column": 38, "offset": 252 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 3, "column": 1, "offset": 215 },
+              "end": { "line": 3, "column": 38, "offset": 252 },
+              "indent": []
+            }
+          },
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Electric Drives and Control: Product Development",
+                    "position": {
+                      "start": { "line": 4, "column": 3, "offset": 255 },
+                      "end": { "line": 4, "column": 51, "offset": 303 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 4, "column": 3, "offset": 255 },
+                  "end": { "line": 4, "column": 51, "offset": 303 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 4, "column": 1, "offset": 253 },
+              "end": { "line": 4, "column": 51, "offset": 303 },
+              "indent": []
+            }
+          },
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "AI in Commercial Business Transformation of Volvo Cars: Product Next-Gen",
+                    "position": {
+                      "start": { "line": 5, "column": 3, "offset": 306 },
+                      "end": { "line": 5, "column": 75, "offset": 378 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 5, "column": 3, "offset": 306 },
+                  "end": { "line": 5, "column": 75, "offset": 378 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 5, "column": 1, "offset": 304 },
+              "end": { "line": 5, "column": 75, "offset": 378 },
+              "indent": []
+            }
+          },
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Connected Cars: Product Creation - End-to-End AWS Cloud DevOps product creation in production scale",
+                    "position": {
+                      "start": { "line": 6, "column": 3, "offset": 381 },
+                      "end": { "line": 6, "column": 102, "offset": 480 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 6, "column": 3, "offset": 381 },
+                  "end": { "line": 6, "column": 102, "offset": 480 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 6, "column": 1, "offset": 379 },
+              "end": { "line": 6, "column": 102, "offset": 480 },
+              "indent": []
+            }
+          },
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Autonomous Driving Data: Product Visualization - Big-Data visualization from different sensors in Autonomous Cars",
+                    "position": {
+                      "start": { "line": 7, "column": 3, "offset": 483 },
+                      "end": { "line": 7, "column": 116, "offset": 596 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 7, "column": 3, "offset": 483 },
+                  "end": { "line": 7, "column": 116, "offset": 596 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 7, "column": 1, "offset": 481 },
+              "end": { "line": 7, "column": 116, "offset": 596 },
+              "indent": []
+            }
+          },
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Open Innovation Arena: Product Innovation - Tech Architect/Lead for the Pilot Digital Electrification Project - Aiming to touch Millions of Happy Volvo Cars Customers!",
+                    "position": {
+                      "start": { "line": 8, "column": 3, "offset": 599 },
+                      "end": { "line": 8, "column": 170, "offset": 766 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 8, "column": 3, "offset": 599 },
+                  "end": { "line": 8, "column": 170, "offset": 766 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 8, "column": 1, "offset": 597 },
+              "end": { "line": 8, "column": 170, "offset": 766 },
+              "indent": []
+            }
+          },
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Commercial Digital: Product Commercialisation - Technical Architect/Lead - Working on my Second Digital Product Touching Partners and Millions of Happy Volvo Cars Customers!",
+                    "position": {
+                      "start": { "line": 9, "column": 3, "offset": 769 },
+                      "end": { "line": 9, "column": 176, "offset": 942 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 9, "column": 3, "offset": 769 },
+                  "end": { "line": 9, "column": 176, "offset": 942 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 9, "column": 1, "offset": 767 },
+              "end": { "line": 10, "column": 1, "offset": 943 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Aiming to externalise the CAR as an IoT Device",
+                    "position": {
+                      "start": { "line": 11, "column": 3, "offset": 946 },
+                      "end": { "line": 11, "column": 49, "offset": 992 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 11, "column": 3, "offset": 946 },
+                  "end": { "line": 11, "column": 49, "offset": 992 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 11, "column": 1, "offset": 944 },
+              "end": { "line": 11, "column": 49, "offset": 992 },
+              "indent": []
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 2, "column": 1, "offset": 1 },
+          "end": { "line": 11, "column": 49, "offset": 992 },
+          "indent": [1, 1, 1, 1, 1, 1, 1, 1, 1]
+        }
+      }
+    ],
+    "position": {
+      "start": { "line": 1, "column": 1, "offset": 0 },
+      "end": { "line": 12, "column": 1, "offset": 993 }
+    }
+  }
+}

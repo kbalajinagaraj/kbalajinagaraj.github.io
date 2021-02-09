@@ -1,0 +1,181 @@
+{
+  "expireTime": 9007200867639285000,
+  "key": "transformer-remark-markdown-ast-23824f66c0e53420adb112cec134d11b-gatsby-remark-external-linksgatsby-remark-imagesgatsby-remark-code-titlesgatsby-remark-prismjs-",
+  "val": {
+    "type": "root",
+    "children": [
+      {
+        "type": "list",
+        "ordered": false,
+        "start": null,
+        "spread": false,
+        "children": [
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Design and modelling of the effect of Electric vehicle on the future electricity grids - Load side time domain modelling with power quality prediction.",
+                    "position": {
+                      "start": { "line": 2, "column": 3, "offset": 3 },
+                      "end": { "line": 2, "column": 154, "offset": 154 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 2, "column": 3, "offset": 3 },
+                  "end": { "line": 2, "column": 154, "offset": 154 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 2, "column": 1, "offset": 1 },
+              "end": { "line": 2, "column": 154, "offset": 154 },
+              "indent": []
+            }
+          },
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "The important recommendation from this work is to estimate and propose the current harmonic limits for LV installations.",
+                    "position": {
+                      "start": { "line": 3, "column": 3, "offset": 157 },
+                      "end": { "line": 3, "column": 123, "offset": 277 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 3, "column": 3, "offset": 157 },
+                  "end": { "line": 3, "column": 123, "offset": 277 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 3, "column": 1, "offset": 155 },
+              "end": { "line": 3, "column": 123, "offset": 277 },
+              "indent": []
+            }
+          },
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "This addresses the challenges with respect to growing new age Electric Vehicle loading demands and would be helpful for the utility companies and stakeholders to make informed decision of their rights and responsibilities in the network.",
+                    "position": {
+                      "start": { "line": 4, "column": 3, "offset": 280 },
+                      "end": { "line": 4, "column": 240, "offset": 517 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 4, "column": 3, "offset": 280 },
+                  "end": { "line": 4, "column": 240, "offset": 517 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 4, "column": 1, "offset": 278 },
+              "end": { "line": 4, "column": 240, "offset": 517 },
+              "indent": []
+            }
+          },
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "The main objective of this work is to analyze and study the current harmonic limit estimation of the individual loads (POC) due to the impact of Electric Vehicle and its Chargers in a typical Dutch low voltage electrical grid.",
+                    "position": {
+                      "start": { "line": 5, "column": 3, "offset": 520 },
+                      "end": { "line": 5, "column": 229, "offset": 746 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 5, "column": 3, "offset": 520 },
+                  "end": { "line": 5, "column": 229, "offset": 746 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 5, "column": 1, "offset": 518 },
+              "end": { "line": 5, "column": 229, "offset": 746 },
+              "indent": []
+            }
+          },
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Skills: Powerfactory, Python, Matlab, Power quality standards, EV Charging standards, Power Grid Standards",
+                    "position": {
+                      "start": { "line": 6, "column": 3, "offset": 749 },
+                      "end": { "line": 6, "column": 109, "offset": 855 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 6, "column": 3, "offset": 749 },
+                  "end": { "line": 6, "column": 109, "offset": 855 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 6, "column": 1, "offset": 747 },
+              "end": { "line": 6, "column": 109, "offset": 855 },
+              "indent": []
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 2, "column": 1, "offset": 1 },
+          "end": { "line": 6, "column": 109, "offset": 855 },
+          "indent": [1, 1, 1, 1]
+        }
+      }
+    ],
+    "position": {
+      "start": { "line": 1, "column": 1, "offset": 0 },
+      "end": { "line": 7, "column": 1, "offset": 856 }
+    }
+  }
+}

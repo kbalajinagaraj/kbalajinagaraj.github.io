@@ -1,0 +1,5 @@
+{
+  "expireTime": 9007200867639285000,
+  "key": "transformer-remark-markdown-html-a13e147c56a37ec5e24f7a8280cd9664-gatsby-remark-external-linksgatsby-remark-imagesgatsby-remark-code-titlesgatsby-remark-prismjs-",
+  "val": "<p>This project deals with the predictive efficiency of the car - By predicting the route of the car based on over 60+ input parameters and estimating the route parameters based on the prediction thereby optimising the vehicle energy consumption pattern in a novel second order cone programming algorithms. I have implemented the optimisation framwork in production scale and worked a bit on the route prediction algorithms as a part of the 6 month assignment.</p>"
+}

@@ -1,0 +1,11 @@
+{
+  "expireTime": 9007200867639277000,
+  "key": "d342131a17d748d605395cbdcc072a7f{\"duotone\":false,\"grayscale\":false,\"rotate\":0,\"toFormat\":\"png\",\"toFormatBase64\":\"\",\"width\":20,\"height\":4}",
+  "val": {
+    "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAIAAAABPYjBAAAACXBIWXMAABYlAAAWJQFJUiTwAAAA2ElEQVQI1x2PS4+CMBRG2bgyJmoGpXD7uq1SCWaW88gsAIvQeYhQjfP/f8k0k5zFl3NWX9Q8xT1nZ4CW0irLvrSus6xSqpLSCnFGbBFdkACNEB2i5TyYXsqPJIleF4tryEky7Pc+z6eAMf5wGBAvUnqtBymvSl2EmLSelBrDVqom5G21ipr12gHYOO4IOW2334zZzebEuaW0TVPHmOP8k7GQWgBHaQ/Q/af35TJ6mc8fiB5xMOZWFPeyfByPvix/lLrneWDc7W7GjFqH8VsUdZqGXw0hz7PZH/NwKiuFr780AAAAAElFTkSuQmCC",
+    "width": 20,
+    "height": 4,
+    "aspectRatio": 5,
+    "originalName": "console-errors.png"
+  }
+}

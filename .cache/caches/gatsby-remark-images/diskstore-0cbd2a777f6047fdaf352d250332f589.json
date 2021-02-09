@@ -1,0 +1,11 @@
+{
+  "expireTime": 9007200867639277000,
+  "key": "9a92c868095081fef605169d5c41eaee{\"duotone\":false,\"grayscale\":false,\"rotate\":0,\"toFormat\":\"png\",\"toFormatBase64\":\"\",\"width\":20,\"height\":7}",
+  "val": {
+    "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAIAAACHqfpvAAAACXBIWXMAABYlAAAWJQFJUiTwAAAA5klEQVQY05VQy07DMBD0B/NrnPoF3DihSgjEQ2qVECexm8R52t712mYpnGg5MJqVH6uZHa1AwBhjwJBzTilx5T+wAVmgDO52f7jZPezu7oU5HEHWUamodNInahXWzRU2jSurU6OqVkvdyW4YxlloKduiXPreKN0UBV8yQHLuktn7bhhfy7ofhu+Y4kPWL2/vZSWPRfH49DwY85P/GhDRbht3kdJoQcSYQiDEQBSZ3kOKv5VExP+8Gg+4btYB9NO6OBQsCF8gVp9PuhzIZvHsyJPneZmnKQDwU+T/gCNYa1dj7Dg67z4BBF+TspJlbbgAAAAASUVORK5CYII=",
+    "width": 20,
+    "height": 7,
+    "aspectRatio": 2.857142857142857,
+    "originalName": "draft-fail.png"
+  }
+}

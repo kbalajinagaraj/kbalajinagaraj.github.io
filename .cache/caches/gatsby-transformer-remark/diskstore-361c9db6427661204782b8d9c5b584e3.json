@@ -1,0 +1,32 @@
+{
+  "expireTime": 9007200867639285000,
+  "key": "transformer-remark-markdown-html-ast-4c926e7fbf171ae9cba6080eba773436-gatsby-remark-external-linksgatsby-remark-imagesgatsby-remark-code-titlesgatsby-remark-prismjs-",
+  "val": {
+    "type": "root",
+    "children": [
+      {
+        "type": "element",
+        "tagName": "p",
+        "properties": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Super happy to present my short intro here! But always welcome to drop your reflections / more info /basically anything you feel to my email here! Exciting to get in touch with you! Grateful for your time and Have a great day ahead!",
+            "position": {
+              "start": { "line": 2, "column": 1, "offset": 1 },
+              "end": { "line": 2, "column": 233, "offset": 233 }
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 2, "column": 1, "offset": 1 },
+          "end": { "line": 2, "column": 233, "offset": 233 }
+        }
+      }
+    ],
+    "position": {
+      "start": { "line": 1, "column": 1, "offset": 0 },
+      "end": { "line": 3, "column": 1, "offset": 234 }
+    }
+  }
+}

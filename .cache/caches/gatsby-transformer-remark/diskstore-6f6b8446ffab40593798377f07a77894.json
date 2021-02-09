@@ -1,0 +1,212 @@
+{
+  "expireTime": 9007200867639285000,
+  "key": "transformer-remark-markdown-ast-d779a40529d33ceb351fcfc4cb1b7fc5-gatsby-remark-external-linksgatsby-remark-imagesgatsby-remark-code-titlesgatsby-remark-prismjs-",
+  "val": {
+    "type": "root",
+    "children": [
+      {
+        "type": "list",
+        "ordered": false,
+        "start": null,
+        "spread": false,
+        "children": [
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "This course and its contents are designed around the concept of a new tech-based\nthe entrepreneurial venture, specialty in the areas of sustainable energy.",
+                    "position": {
+                      "start": { "line": 2, "column": 3, "offset": 3 },
+                      "end": { "line": 3, "column": 77, "offset": 160 },
+                      "indent": [3]
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 2, "column": 3, "offset": 3 },
+                  "end": { "line": 3, "column": 77, "offset": 160 },
+                  "indent": [3]
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 2, "column": 1, "offset": 1 },
+              "end": { "line": 3, "column": 77, "offset": 160 },
+              "indent": [1]
+            }
+          },
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Worked on an entrepreneurial venture - to create value in a competitive energy environment with demonstrating entrepreneurship as an opportunity value creation process and the need to focus on the customer/user/client to build a successful new company",
+                    "position": {
+                      "start": { "line": 4, "column": 3, "offset": 163 },
+                      "end": { "line": 4, "column": 254, "offset": 414 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 4, "column": 3, "offset": 163 },
+                  "end": { "line": 4, "column": 254, "offset": 414 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 4, "column": 1, "offset": 161 },
+              "end": { "line": 4, "column": 254, "offset": 414 },
+              "indent": []
+            }
+          },
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Got introduced to designing and validation of business models",
+                    "position": {
+                      "start": { "line": 5, "column": 3, "offset": 417 },
+                      "end": { "line": 5, "column": 64, "offset": 478 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 5, "column": 3, "offset": 417 },
+                  "end": { "line": 5, "column": 64, "offset": 478 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 5, "column": 1, "offset": 415 },
+              "end": { "line": 5, "column": 64, "offset": 478 },
+              "indent": []
+            }
+          },
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Have a first approach to the financial and economic understanding of a new venture",
+                    "position": {
+                      "start": { "line": 6, "column": 3, "offset": 481 },
+                      "end": { "line": 6, "column": 85, "offset": 563 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 6, "column": 3, "offset": 481 },
+                  "end": { "line": 6, "column": 85, "offset": 563 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 6, "column": 1, "offset": 479 },
+              "end": { "line": 6, "column": 85, "offset": 563 },
+              "indent": []
+            }
+          },
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Know and understand the financial resources available to a new venture",
+                    "position": {
+                      "start": { "line": 7, "column": 3, "offset": 566 },
+                      "end": { "line": 7, "column": 73, "offset": 636 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 7, "column": 3, "offset": 566 },
+                  "end": { "line": 7, "column": 73, "offset": 636 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 7, "column": 1, "offset": 564 },
+              "end": { "line": 7, "column": 73, "offset": 636 },
+              "indent": []
+            }
+          },
+          {
+            "type": "listItem",
+            "spread": false,
+            "checked": null,
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Understanding leadership and How to protect the business by protecting any new generated knowledge",
+                    "position": {
+                      "start": { "line": 8, "column": 3, "offset": 639 },
+                      "end": { "line": 8, "column": 101, "offset": 737 },
+                      "indent": []
+                    }
+                  }
+                ],
+                "position": {
+                  "start": { "line": 8, "column": 3, "offset": 639 },
+                  "end": { "line": 8, "column": 101, "offset": 737 },
+                  "indent": []
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 8, "column": 1, "offset": 637 },
+              "end": { "line": 8, "column": 101, "offset": 737 },
+              "indent": []
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 2, "column": 1, "offset": 1 },
+          "end": { "line": 8, "column": 101, "offset": 737 },
+          "indent": [1, 1, 1, 1, 1, 1]
+        }
+      }
+    ],
+    "position": {
+      "start": { "line": 1, "column": 1, "offset": 0 },
+      "end": { "line": 9, "column": 1, "offset": 738 }
+    }
+  }
+}

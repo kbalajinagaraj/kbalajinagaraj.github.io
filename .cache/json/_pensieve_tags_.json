@@ -1,0 +1,12 @@
+{
+  "data": {
+    "site": { "siteMetadata": { "title": "Balaji Nagaraj Kumar" } },
+    "allMarkdownRemark": {
+      "group": [
+        { "fieldValue": "Docker", "totalCount": 1 },
+        { "fieldValue": "WordPress", "totalCount": 2 }
+      ]
+    }
+  },
+  "pageContext": {}
+}
