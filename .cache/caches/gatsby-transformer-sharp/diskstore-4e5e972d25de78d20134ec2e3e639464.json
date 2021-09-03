@@ -1,0 +1,11 @@
+{
+  "expireTime": 9007200885401529000,
+  "key": "a3f110a2-378b-5802-8016-d845b909a0c5{\"duotone\":false,\"grayscale\":false,\"rotate\":0,\"trim\":false,\"toFormat\":\"webp\",\"toFormatBase64\":\"\",\"cropFocus\":17,\"fit\":\"cover\",\"width\":20,\"height\":12}",
+  "val": {
+    "src": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACwAwCdASoUAAwAPtFWo0uoJKMhsAgBABoJaQAAXKFEuH+B0zJZgAD+7A6aILbVlrvK83EWKvXyd40ih5Qs4exs/2EGID0uzRXyAMYQBIBCAAAA",
+    "width": 20,
+    "height": 12,
+    "aspectRatio": 1.6666666666666667,
+    "originalName": "demo.jpg"
+  }
+}

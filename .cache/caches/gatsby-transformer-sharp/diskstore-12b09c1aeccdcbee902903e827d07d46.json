@@ -1,0 +1,11 @@
+{
+  "expireTime": 9007200885401529000,
+  "key": "ed39651f-9b68-5cb3-b176-b5714689b160{\"duotone\":false,\"grayscale\":false,\"rotate\":0,\"trim\":false,\"toFormat\":\"webp\",\"toFormatBase64\":\"\",\"cropFocus\":17,\"fit\":\"cover\",\"width\":20,\"height\":30}",
+  "val": {
+    "src": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAABwBQCdASoUAB4APtFaqE4oJSQiKAqpABoJbACdL8Fs/wDZVBF1KtGSuFPIdRRacFXbDhgoAOHsas1GdkKZUUug+G7asUJDU9PQq6QmGahvr/XO8Hg1HgqPZv1PVAa8VvU0AebX6XXFi0BAp7nYhI6l9RUNFnEEUobf1j1ZCRk7RzZm0SZz60HXIcpNkGw+DcGjJeepTtNOKUIbIWk4rPjD5ePf0jZoQxLHPMgKwwSu7F3A12dNG+1Bcrgs3d1EAAA=",
+    "width": 20,
+    "height": 30,
+    "aspectRatio": 0.6666666666666666,
+    "originalName": "dePic.jpg"
+  }
+}

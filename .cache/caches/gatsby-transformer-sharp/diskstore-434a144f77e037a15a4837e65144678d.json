@@ -1,0 +1,11 @@
+{
+  "expireTime": 9007200885401528000,
+  "key": "9c9bf21d-dfac-5860-884b-3eca67f016dd{\"duotone\":false,\"grayscale\":false,\"rotate\":0,\"trim\":false,\"toFormat\":\"webp\",\"toFormatBase64\":\"\",\"cropFocus\":17,\"fit\":\"cover\",\"width\":20,\"height\":13}",
+  "val": {
+    "src": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQAwCdASoUAA0APtFWo0uoJKMhsAgBABoJZwAAXAvVgHuAf0+KbAAA/u/I9mot9iMxNhIYDFRiIzOUJzwrkUQV8j61y3SqdctlKeek85sQOR/2PnUZtPYuUp9F53zcAAA=",
+    "width": 20,
+    "height": 13,
+    "aspectRatio": 1.5384615384615385,
+    "originalName": "pePic.jpg"
+  }
+}
